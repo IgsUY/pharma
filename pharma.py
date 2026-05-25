@@ -1,4 +1,5 @@
-#pip install selenium #Caso não tenha o Selenium instalado, descomente esta linha para instalar
+# pip install selenium webdriver-manager requests
+# Caso não tenha as dependências instaladas, descomente a linha acima
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
